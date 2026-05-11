@@ -67,12 +67,7 @@ core_autonomy/data_out/
 local_replanning/data_out/
 ```
 
-Recommended visuals for the GitHub README:
 
-1. 3D trajectory through an obstacle map
-2. Desired vs. estimated/actual trajectory plot
-3. Local replanning visualization
-4. Short GIF of the quadrotor navigating through obstacles
 
 ## Installation
 
